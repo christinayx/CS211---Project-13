@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SMS_test</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="EnterPhoneNum">Enter Phone Number of recipient</string>
+    <string name="Message">Message</string>
+    <string name="Send_SMS">Send</string>
+    <string name="File_Name">File Name</string>
+</resources>
